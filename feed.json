@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tynanpurdy.micro.blog/2025/04/15/recommendation-algorithms-suck-the-older.html",
+				
+				"content_html": "<p>Recommendation algorithms suck. The older they get the more overfit and average they become. Listening to Emerson college radio has been a much needed breath of human curated fresh air.\n<a href=\"https://wers.org/\">wers.org</a></p>\n",
+				"content_text": "Recommendation algorithms suck. The older they get the more overfit and average they become. Listening to Emerson college radio has been a much needed breath of human curated fresh air.\r\n[wers.org](https://wers.org/)\n",
+				"date_published": "2025-04-15T10:23:54-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/04/15/recommendation-algorithms-suck-the-older.html"
+			},
+			{
 				"id": "http://tynanpurdy.micro.blog/2025/04/08/new-mumford-is-exactly-what.html",
 				
 				"content_html": "<p>New mumford is EXACTLY what I needed rn. RUSHMERE already a banger in my book</p>\n<p><a href=\"https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4?si=fWc0X_rZQ5eD65UvmzbPtw\">open.spotify.com/album/15o&hellip;</a></p>\n",
@@ -59,7 +67,7 @@
 				"id": "http://tynanpurdy.micro.blog/2025/02/10/obsidian-just-added-a-web.html",
 				
 				"content_html": "<p>Obsidian just added a web viewer and I&rsquo;m now seriously reconsidering what a web browser is supposed to be&hellip;\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Obsidian just added a web viewer and I'm now seriously reconsidering what a web browser is supposed to be...\r\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/image.png\" alt=\"\">\n",
+				"content_text": "Obsidian just added a web viewer and I'm now seriously reconsidering what a web browser is supposed to be...\r\n<img src=\"uploads/2025/image.png\" alt=\"\">\n",
 				"date_published": "2025-02-10T11:44:25-04:00",
 				"url": "https://blog.tynanpurdy.com/2025/02/10/obsidian-just-added-a-web.html"
 			},
@@ -67,7 +75,7 @@
 				"id": "http://tynanpurdy.micro.blog/2025/02/07/my-crack-at-gyeran-bap.html",
 				
 				"content_html": "<p>My crack at gyeran bap</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My crack at gyeran bap\n\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "My crack at gyeran bap\n\n<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-07T11:08:09-04:00",
 				"url": "https://blog.tynanpurdy.com/2025/02/07/my-crack-at-gyeran-bap.html"
 			},

@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tynanpurdy.micro.blog/2025/04/23/a-win-is-a-win.html",
+				
+				"content_html": "<p>A win is a win</p>\n<p>Flat origami is Turing Complete\nThomas C. Hull, Inna Zakharevich\n<a href=\"https://arxiv.org/abs/2309.07932\">arxiv.org/abs/2309&hellip;.</a></p>\n",
+				"content_text": "A win is a win\r\n\r\nFlat origami is Turing Complete\r\nThomas C. Hull, Inna Zakharevich\r\n[arxiv.org/abs/2309....](https://arxiv.org/abs/2309.07932)\n",
+				"date_published": "2025-04-23T10:35:28-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/04/23/a-win-is-a-win.html"
+			},
+			{
 				"id": "http://tynanpurdy.micro.blog/2025/04/15/recommendation-algorithms-suck-the-older.html",
 				
 				"content_html": "<p>Recommendation algorithms suck. The older they get the more overfit and average they become. Listening to Emerson college radio has been a much needed breath of human curated fresh air.\n<a href=\"https://wers.org/\">wers.org</a></p>\n",

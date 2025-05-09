@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tynanpurdy.micro.blog/2025/05/09/i-have-dozens-of-these.html",
+				
+				"content_html": "<p>I have dozens of these dog poop bag rolls. They’re good sturdy paperboard tubes. Lots of potential. Can definitely start with some kind of 3d printed connector system. I’m sure more ideas will come.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have dozens of these dog poop bag rolls. They’re good sturdy paperboard tubes. Lots of potential. Can definitely start with some kind of 3d printed connector system. I’m sure more ideas will come.\n\n<img src=\"uploads/2025/347478f58f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-05-09T15:14:55-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/05/09/i-have-dozens-of-these.html"
+			},
+			{
+				"id": "http://tynanpurdy.micro.blog/2025/05/02/is-rss-piracy-sometimes-it.html",
+				
+				"content_html": "<p>Is RSS piracy? sometimes it feels like it. Publications have paywalls, but the public RSS feed will just give you the full article, ad free. Is this just free access for the mildly tech savvy? Oversight? Might just be a limitation of the technology that we&rsquo;ve made peace with.</p>\n",
+				"content_text": "Is RSS piracy? sometimes it feels like it. Publications have paywalls, but the public RSS feed will just give you the full article, ad free. Is this just free access for the mildly tech savvy? Oversight? Might just be a limitation of the technology that we've made peace with.\n",
+				"date_published": "2025-05-02T14:12:17-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/05/02/is-rss-piracy-sometimes-it.html"
+			},
+			{
+				"id": "http://tynanpurdy.micro.blog/2025/05/01/why-does-spotify-do-nothing.html",
+				
+				"content_html": "<p>Why does Spotify do nothing to show me what my friends are listening to. I don’t want music TikTok or podcasts. I want a social exchange of music</p>\n",
+				"content_text": "Why does Spotify do nothing to show me what my friends are listening to. I don’t want music TikTok or podcasts. I want a social exchange of music\n",
+				"date_published": "2025-05-01T15:55:37-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/05/01/why-does-spotify-do-nothing.html"
+			},
+			{
+				"id": "http://tynanpurdy.micro.blog/2025/05/01/itd-be-cool-if-something.html",
+				
+				"content_html": "<p>It&rsquo;d be cool if something like RCS happened to phone calls. What if native phone calls had a chat? Also general audio quality could be so much better. Might throw together a mockup</p>\n",
+				"content_text": "It'd be cool if something like RCS happened to phone calls. What if native phone calls had a chat? Also general audio quality could be so much better. Might throw together a mockup\n",
+				"date_published": "2025-05-01T12:33:43-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/05/01/itd-be-cool-if-something.html"
+			},
+			{
 				"id": "http://tynanpurdy.micro.blog/2025/04/28/just-saw-a-streetview-mapping.html",
 				
 				"content_html": "<p>Just saw a streetview mapping car drive by my house with what appeared to be an gopro 360 camera bolted on top. Crazy how efficient those sensor arrays have become.</p>\n",
@@ -42,7 +74,7 @@
 				"id": "http://tynanpurdy.micro.blog/2025/03/05/had-a-blast-so-great.html",
 				
 				"content_html": "<p>Had a blast. So great to talk to people irl and feel that community. TIL next time! @idsa_boston</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a blast. So great to talk to people irl and feel that community. TIL next time! @idsa_boston\n\n<img src=\"uploads/2025/96570925a4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Had a blast. So great to talk to people irl and feel that community. TIL next time! @idsa_boston\n\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/96570925a4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-06T00:29:54-04:00",
 				"url": "https://blog.tynanpurdy.com/2025/03/05/had-a-blast-so-great.html"
 			},
@@ -74,7 +106,7 @@
 				"id": "http://tynanpurdy.micro.blog/2025/02/11/i-made-the-write-with.html",
 				"title": "I made the write with rhythm picture real",
 				"content_html": "<p>I saw this clipping from a book when browsing threads one day. Many of us have.</p>\n<!-- raw HTML omitted -->\n<p><em>An illustrated excerpt from Gary Provost&rsquo;s 100 Ways to Improve Your Writing</em></p>\n<p>I&rsquo;m no writer, but I am more pedantic about writing than most. Growing up homeschooled does that to you. So when I saw this I thought YES. FINALLY. Somebody giving clear advice on how to make your writing not feel like corpo-chatgipitty slop. Save. Scroll.</p>\n<p>Some time later I still thought about that post. It&rsquo;s a nice idea, but how would I actually write that way in practice? The colors were so pretty in the picture, but no editor highlights sentences like that. Right? <em>right?&hellip;</em></p>\n<p>I use Obsidian. I can go off about how I use Obsidian later, but I use it. And I know that Obsidian is super customizable, like ridiculously customizable. It has a whole community plugin store where anybody can throw together a little code and change any aspect of the app, from adding entirely new functionality to simply moving a button or changing the color scheme. I can code. A little. I can read docs and I know someone who can help me out with the rest, lArGE LaNguAge mODEls.</p>\n<p>A few evenings of messing around and ta-fricken-da I had myself a plugin.</p>\n<!-- raw HTML omitted -->\n<p>Its not much. For a first-time Obsidian plugin dev I&rsquo;m happy with it. I knew I wouldn&rsquo;t make something perfect on the first go but I did want to make it <em>good</em>. The toggle is contained to individual tabs. It doesn&rsquo;t change any of your source text. The colors are fully customizable, sentence length thresholds too. It&rsquo;s nice.</p>\n<p>I will publish Musical Text to the official community plugins directory and update here when it&rsquo;s approved. Didn&rsquo;t want to hold off on talking about it for the sake of listing it. You can check out the code or manually install from my GitHub.</p>\n<p><a href=\"https://github.com/tynanpurdy/musical-text\">GitHub | musical-text</a></p>\n<p>EDIT 2025-02-27: the PR is submitted! waiting for review from the Obsidian team before it goes up on the official plugins list</p>\n",
-				"content_text": "I saw this clipping from a book when browsing threads one day. Many of us have. \n\n<img src=\"uploads/2025/2aaeaa531b.png\" alt=\"\">\n\n*An illustrated excerpt from Gary Provost's 100 Ways to Improve Your Writing*\n\nI'm no writer, but I am more pedantic about writing than most. Growing up homeschooled does that to you. So when I saw this I thought YES. FINALLY. Somebody giving clear advice on how to make your writing not feel like corpo-chatgipitty slop. Save. Scroll.\n\nSome time later I still thought about that post. It's a nice idea, but how would I actually write that way in practice? The colors were so pretty in the picture, but no editor highlights sentences like that. Right? *right?...*\n\nI use Obsidian. I can go off about how I use Obsidian later, but I use it. And I know that Obsidian is super customizable, like ridiculously customizable. It has a whole community plugin store where anybody can throw together a little code and change any aspect of the app, from adding entirely new functionality to simply moving a button or changing the color scheme. I can code. A little. I can read docs and I know someone who can help me out with the rest, lArGE LaNguAge mODEls.\n\nA few evenings of messing around and ta-fricken-da I had myself a plugin.\n\n<img src=\"uploads/2025/demo.gif\" width=\"600\" height=\"375\" alt=\"\">\n\nIts not much. For a first-time Obsidian plugin dev I'm happy with it. I knew I wouldn't make something perfect on the first go but I did want to make it *good*. The toggle is contained to individual tabs. It doesn't change any of your source text. The colors are fully customizable, sentence length thresholds too. It's nice. \n\n\nI will publish Musical Text to the official community plugins directory and update here when it's approved. Didn't want to hold off on talking about it for the sake of listing it. You can check out the code or manually install from my GitHub.\n\n\n[GitHub | musical-text](https://github.com/tynanpurdy/musical-text)\n\nEDIT 2025-02-27: the PR is submitted! waiting for review from the Obsidian team before it goes up on the official plugins list\n",
+				"content_text": "I saw this clipping from a book when browsing threads one day. Many of us have. \n\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/2aaeaa531b.png\" alt=\"\">\n\n*An illustrated excerpt from Gary Provost's 100 Ways to Improve Your Writing*\n\nI'm no writer, but I am more pedantic about writing than most. Growing up homeschooled does that to you. So when I saw this I thought YES. FINALLY. Somebody giving clear advice on how to make your writing not feel like corpo-chatgipitty slop. Save. Scroll.\n\nSome time later I still thought about that post. It's a nice idea, but how would I actually write that way in practice? The colors were so pretty in the picture, but no editor highlights sentences like that. Right? *right?...*\n\nI use Obsidian. I can go off about how I use Obsidian later, but I use it. And I know that Obsidian is super customizable, like ridiculously customizable. It has a whole community plugin store where anybody can throw together a little code and change any aspect of the app, from adding entirely new functionality to simply moving a button or changing the color scheme. I can code. A little. I can read docs and I know someone who can help me out with the rest, lArGE LaNguAge mODEls.\n\nA few evenings of messing around and ta-fricken-da I had myself a plugin.\n\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/demo.gif\" width=\"600\" height=\"375\" alt=\"\">\n\nIts not much. For a first-time Obsidian plugin dev I'm happy with it. I knew I wouldn't make something perfect on the first go but I did want to make it *good*. The toggle is contained to individual tabs. It doesn't change any of your source text. The colors are fully customizable, sentence length thresholds too. It's nice. \n\n\nI will publish Musical Text to the official community plugins directory and update here when it's approved. Didn't want to hold off on talking about it for the sake of listing it. You can check out the code or manually install from my GitHub.\n\n\n[GitHub | musical-text](https://github.com/tynanpurdy/musical-text)\n\nEDIT 2025-02-27: the PR is submitted! waiting for review from the Obsidian team before it goes up on the official plugins list\n",
 				"date_published": "2025-02-11T21:51:46-04:00",
 				"url": "https://blog.tynanpurdy.com/2025/02/11/i-made-the-write-with.html",
 				"tags": ["project"]
@@ -83,7 +115,7 @@
 				"id": "http://tynanpurdy.micro.blog/2025/02/10/obsidian-just-added-a-web.html",
 				
 				"content_html": "<p>Obsidian just added a web viewer and I&rsquo;m now seriously reconsidering what a web browser is supposed to be&hellip;\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Obsidian just added a web viewer and I'm now seriously reconsidering what a web browser is supposed to be...\r\n<img src=\"uploads/2025/image.png\" alt=\"\">\n",
+				"content_text": "Obsidian just added a web viewer and I'm now seriously reconsidering what a web browser is supposed to be...\r\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/image.png\" alt=\"\">\n",
 				"date_published": "2025-02-10T11:44:25-04:00",
 				"url": "https://blog.tynanpurdy.com/2025/02/10/obsidian-just-added-a-web.html"
 			},
@@ -91,7 +123,7 @@
 				"id": "http://tynanpurdy.micro.blog/2025/02/07/my-crack-at-gyeran-bap.html",
 				
 				"content_html": "<p>My crack at gyeran bap</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My crack at gyeran bap\n\n<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "My crack at gyeran bap\n\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-07T11:08:09-04:00",
 				"url": "https://blog.tynanpurdy.com/2025/02/07/my-crack-at-gyeran-bap.html"
 			},

@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tynanpurdy.micro.blog/2025/06/11/raycast-extension-for-microblog-mantonorg.html",
+				
+				"content_html": "<p>Raycast extension for microblog? <a href=\"http://manton.org\">@manton.org</a> <a href=\"http://raycast.com\">@raycast.com</a> I&rsquo;m a noob but happy to give it a shot. Love the idea of having a thought and posting it at the speed of typing it out</p>\n",
+				"content_text": "Raycast extension for microblog? [@manton.org](http://manton.org) [@raycast.com](http://raycast.com) I'm a noob but happy to give it a shot. Love the idea of having a thought and posting it at the speed of typing it out\n",
+				"date_published": "2025-06-11T10:02:55-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/06/11/raycast-extension-for-microblog-mantonorg.html"
+			},
+			{
+				"id": "http://tynanpurdy.micro.blog/2025/06/02/weporch-is-a-hot-new.html",
+				
+				"content_html": "<p>WePorch is a hot new outdoor coworking space in the heart of Boston. With great views and a five woof rating on DogsOnCouches.com, it’s THE place to be when work needs getting done.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "WePorch is a hot new outdoor coworking space in the heart of Boston. With great views and a five woof rating on DogsOnCouches.com, it’s THE place to be when work needs getting done.\n\n<img src=\"uploads/2025/weporch.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/img-6995.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-02T17:49:24-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/06/02/weporch-is-a-hot-new.html"
+			},
+			{
+				"id": "http://tynanpurdy.micro.blog/2025/06/02/typing-speed-becomes-more-important.html",
+				
+				"content_html": "<p>Typing speed becomes more important as a skill as UIs move towards agentic and intent-based action</p>\n",
+				"content_text": "Typing speed becomes more important as a skill as UIs move towards agentic and intent-based action\n",
+				"date_published": "2025-06-02T10:55:23-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/06/02/typing-speed-becomes-more-important.html"
+			},
+			{
 				"id": "http://tynanpurdy.micro.blog/2025/05/28/people-are-trying-my-software.html",
 				
 				"content_html": "<p>People are trying my software!! 😊 As a designer just cracking into development, this makes me so happy 🫶🏻</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +58,7 @@
 				"id": "http://tynanpurdy.micro.blog/2025/05/13/the-fastest-way-for-me.html",
 				
 				"content_html": "<p>the fastest way for me to pull up home assistant on iOS is to spotlight search “ass”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "the fastest way for me to pull up home assistant on iOS is to spotlight search “ass”\n\n<img src=\"uploads/2025/7e24483b66.jpg\" width=\"600\" height=\"528\" alt=\"\">\n",
+				"content_text": "the fastest way for me to pull up home assistant on iOS is to spotlight search “ass”\n\n<img src=\"https://blog.tynanpurdy.com/uploads/2025/7e24483b66.jpg\" width=\"600\" height=\"528\" alt=\"\">\n",
 				"date_published": "2025-05-13T16:43:15-04:00",
 				"url": "https://blog.tynanpurdy.com/2025/05/13/the-fastest-way-for-me.html"
 			},

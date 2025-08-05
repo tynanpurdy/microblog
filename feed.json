@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tynanpurdy.micro.blog/2025/08/05/yet-another-new-website-eventually.html",
+				"title": "Yet Another New Website (eventually)",
+				"content_html": "<p>I suffer profusely from build-a-new-website syndrome. I swear this time it&rsquo;ll be great! I want to build a home on the internet that connects with the reset of my digital presence. It should be alive. Just a few minutes on there—even if you don&rsquo;t read far into any project or blog post—should convey my person accurately.</p>\n<p>Some websites that do this well</p>\n<ul>\n<li><a href=\"https://adactio.com/\">adactio.com</a></li>\n<li><a href=\"https://dame.is\">dame.is</a></li>\n<li><a href=\"https://ewancroft.uk/\">ewancroft.uk</a></li>\n<li><a href=\"https://bmannconsulting.com/\">bmannconsulting.com</a></li>\n</ul>\n<p>My current attempt at building this is <a href=\"https://github.com/tynanpurdy/at-home.\">github.com/tynanpurd&hellip;</a> While informative, I don&rsquo;t know if it will be the last attempt.</p>\n",
+				"content_text": "I suffer profusely from build-a-new-website syndrome. I swear this time it'll be great! I want to build a home on the internet that connects with the reset of my digital presence. It should be alive. Just a few minutes on there—even if you don't read far into any project or blog post—should convey my person accurately.\n\nSome websites that do this well\n- [adactio.com](https://adactio.com/)\n- [dame.is](https://dame.is)\n- [ewancroft.uk](https://ewancroft.uk/)\n- [bmannconsulting.com](https://bmannconsulting.com/)\n\nMy current attempt at building this is [github.com/tynanpurd...](https://github.com/tynanpurdy/at-home.) While informative, I don't know if it will be the last attempt. \n",
+				"date_published": "2025-08-05T10:44:17-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/08/05/yet-another-new-website-eventually.html"
+			},
+			{
+				"id": "http://tynanpurdy.micro.blog/2025/07/17/coming-to-an-opensauce-near.html",
+				
+				"content_html": "<p>Coming to an #opensauce near you…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coming to an #opensauce near you…\n\n<img src=\"uploads/2025/c7baeb9250.jpg\" width=\"450\" height=\"600\" alt=\"Bamboo lab A1, mini 3-D printer in progress printing a full bed of frogs. On the table in front of the printer are five completed frogs they have a little dump truck booties.\">\n",
+				"date_published": "2025-07-17T20:18:47-04:00",
+				"url": "https://blog.tynanpurdy.com/2025/07/17/coming-to-an-opensauce-near.html"
+			},
+			{
 				"id": "http://tynanpurdy.micro.blog/2025/07/10/el-jefes-using-nfc-tags.html",
 				
 				"content_html": "<p>El Jefe’s using NFC tags to link to their loyalty program. Works at close range and in low light!</p>\n<!-- raw HTML omitted -->\n",
